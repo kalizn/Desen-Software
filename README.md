@@ -1,4 +1,4 @@
-# Sistema de monitoramento de rotas de ônibus
+# Sistema de mapeamento de rotas de ônibus
 Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS 2019 do campus XX.
 
 <h2> PROPOSTAS DE FASES DO PROJETO </h2>
