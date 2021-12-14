@@ -3,27 +3,27 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 
 <h2> PROPOSTAS DE FASES DO PROJETO </h2>
 <h3>Etapa 1: Concepção</h3>
-- Conhecher e entender o problema
-- Definição (definir o problema a ser resolvido)
-- Ideação (Brainstorming)
-- Prototipação
+<p>- Conhecher e entender o problema</p>
+<p>- Definição (definir o problema a ser resolvido)</p>
+<p>- Ideação (Brainstorming)</p>
+<p>- Prototipação</p>
 
 <h3>Etapa 2: Planejamento</h3>
-- Escopo do projeto
-- Levantamento de requisistos
-- Detalhamento dos requisitos
-- Validação dos requisitos
+<p>- Escopo do projeto</p>
+<p>- Levantamento de requisistos</p>
+<p>- Detalhamento dos requisitos</p>
+<p>- Validação dos requisitos</p>
 
 <h3>Etapa 3: Execução KDD</h3>
-- Levantamento de dados
-- Pré-processamento dos dados
-- Tranformação dos dados
-- Minaração dos dados
-- Avaliação
+<p>- Levantamento de dados</p>
+<p>- Pré-processamento dos dados</p>
+<p>- Tranformação dos dados</p>
+<p>- Minaração dos dados</p>
+<p>- Avaliação</p>
 
 <h3>Etapa 4: Fase de desenvolvimento</h3>
-- Definir a metodologia usada (Scrum)
-- Modelage de dados
+<p>- Definir a metodologia usada (Scrum)</p>
+<p>- Modelage de dados</p>
 
 > modulo 1
 - Tela login
