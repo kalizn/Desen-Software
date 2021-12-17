@@ -9,21 +9,21 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 <li>Prototipação</li>
 
 <h3>Etapa 2: Planejamento</h3>
-<p>- Escopo do projeto</p>
-<p>- Levantamento de requisistos</p>
-<p>- Detalhamento dos requisitos</p>
-<p>- Validação dos requisitos</p>
+<li>Escopo do projeto</li>
+<li>Levantamento de requisistos</li>
+<li>Detalhamento dos requisitos</li>
+<li>Validação dos requisitos</li>
 
 <h3>Etapa 3: Execução KDD</h3>
-<p>- Levantamento de dados</p>
-<p>- Pré-processamento dos dados</p>
-<p>- Tranformação dos dados</p>
-<p>- Minaração dos dados</p>
-<p>- Avaliação</p>
+<li>Levantamento de dados</li>
+<li>Pré-processamento dos dados</li>
+<li>Tranformação dos dados</li>
+<li>Minaração dos dados</li>
+<li>Avaliação</li>
 
 <h3>Etapa 4: Fase de desenvolvimento</h3>
-<p>- Definir a metodologia usada (Scrum)</p>
-<p>- Modelage de dados</p>
+<li>Definir a metodologia usada (Scrum)</li>
+<li>Modelage de dados</li>
 
 > modulo 1
 - Tela login
