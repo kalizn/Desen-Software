@@ -3,10 +3,10 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 
 <h2> PROPOSTAS DE FASES DO PROJETO </h2>
 <h3>Etapa 1: Concepção</h3>
-<p>- Conhecher e entender o problema</p>
-<p>- Definição (definir o problema a ser resolvido)</p>
-<p>- Ideação (Brainstorming)</p>
-<p>- Prototipação</p>
+<li>Conhecher e entender o problema</li>
+<li>Definição (definir o problema a ser resolvido)</li>
+<li>Ideação (Brainstorming)</li>
+<li>Prototipação</li>
 
 <h3>Etapa 2: Planejamento</h3>
 <p>- Escopo do projeto</p>
