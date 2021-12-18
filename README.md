@@ -1,7 +1,7 @@
 # Sistema de mapeamento de rotas de ônibus
 Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS 2019 do campus XX.
 
-<h2> PROPOSTAS DE FASES DO PROJETO </h2>
+<h2> FASES DO PROJETO </h2>
 <h3>Etapa 1: Concepção</h3>
 <li>Conhecher e entender o problema</li>
 <li>Definição (definir o problema a ser resolvido)</li>
@@ -39,4 +39,21 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 
 <h3>Etapa 6: Fase de manutenção</h3>
 
+<h2> RECURSOS DO PROJETO </h2>
+<h3>Tecnologias</h3>
+<h4>React Native</h4>
+<h4>Banco de dados</h4>
+<p>Possíveis opções de banco de dados</p>
+<li>Firebase (1GB Free e U$ 0,18 cada GB)</li>
+<li>SQLite</li>
+<li>MongoDB</li>
+<li>MySQL</li>
 
+<h3>Pessoas</h3>
+<h4>1 analísta de requisitos</h4>
+<h4>1 designer</h4>
+<h4>3 desenvolvedores</h4>
+<li>2 dev. Front-End</li>
+<li>1 dev. Back-End</li>
+
+<h3>Servidores</h3>
