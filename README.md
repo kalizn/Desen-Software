@@ -42,8 +42,9 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 
 <h2> RECURSOS DO PROJETO </h2>
 <h3>Tecnologias</h3>
-<h4>React Native</h4>
-<h4>Banco de dados</h4>
+<h4># React Native</h4>
+<h4># API de Geolocalização</h4>
+<h4># Banco de dados</h4>
 <li>Firebase</li>
 <li>SQLite</li>
 
@@ -53,11 +54,11 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 <li>Lucidchart (Free) e (Pro - US $ 9,95/mês) -> Modelagem de dados</li>
 
 <h3>Pessoas</h3>
-<h4>1 analísta de requisitos</h4>
-<h4>1 designer</h4>
+<h4>1 analísta de requisitos (R$ 5.313,00/mês)</h4>
+<h4>1 designer (R$ 2.404,00/mês)</h4>
 <h4>3 desenvolvedores</h4>
-<li>2 dev. Front-End</li>
-<li>1 dev. Back-End</li>
+<li>2 dev. Front-End (R$ 2.868/mês cada)</li>
+<li>1 dev. Back-End (R$ 2.868/mês)</li>
 
 <h3>Servidores</h3>
 <li>Firebase - (1GB Free e U$ 0,108 cada GB extra) -> R$ 0,62</li>
