@@ -3,13 +3,14 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 
 <h2> FASES DO PROJETO </h2>
 <h3>Etapa 1: Concepção</h3>
-<li>Conhecher e entender o problema</li>
-<li>Definição (definir o problema a ser resolvido)</li>
+<li>Conhecher e entender o problema: A empresa pretende busca diminuir o tempo de espera por ônibus</li>
+<li>Definição: Construção de um Aplicativo para acompanhar o trajeto dos onibus (mapear)</li>
 <li>Ideação (Brainstorming)</li>
 <li>Prototipação</li>
 
 <h3>Etapa 2: Planejamento</h3>
 <li>Escopo do projeto</li>
+<p>Uma empresa de onibus pretende oferecer aos passageiros uma forma de facilitar na busca por ônibus. Para isso ela busca desenvolver um aplicativo que possa ser disponibilizado para os usuários do transporte público e assim acompanhar em tempo real o trajeto dos ônibus, além de informar as paradas e qual o ônibus mais próximo do local do usuário.</p>
 <li>Levantamento de requisistos</li>
 <li>Detalhamento dos requisitos</li>
 <li>Validação dos requisitos</li>
