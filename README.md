@@ -43,11 +43,13 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 <h3>Tecnologias</h3>
 <h4>React Native</h4>
 <h4>Banco de dados</h4>
-<p>Possíveis opções de banco de dados</p>
-<li>Firebase (1GB Free e U$ 0,18 cada GB)</li>
+<li>Firebase</li>
 <li>SQLite</li>
-<li>MongoDB</li>
-<li>MySQL</li>
+
+<h3>Ferramentas</h3>
+<li>Visual Studio Code</li>
+<li>Figma -> Prototipação e design</li>
+<li>Lucidchart (Free) e (Pro - US $ 9,95/mês) -> Modelagem de dados</li>
 
 <h3>Pessoas</h3>
 <h4>1 analísta de requisitos</h4>
@@ -57,3 +59,5 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 <li>1 dev. Back-End</li>
 
 <h3>Servidores</h3>
+<li>Firebase - (1GB Free e U$ 0,108 cada GB extra) -> R$ 0,62</li>
+<li>Heroku - ($25 e acima por mês)</li>
