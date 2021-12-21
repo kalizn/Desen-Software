@@ -59,9 +59,9 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 <h4>2 Testers (R$ 1.646,00/mês - Hora Extra R$ 35,00)</h4>
 <h4>1 Auditor Interno (R$ 5.055,00/mês - Hora Extra R$ 95,00)</h4>
 
-<h4>3 Desenvolvedores</h4>
-<li>2 Dev. Front-End (R$ 2.868/mês cada)</li>
-<li>2 Dev. Back-End (R$ 2.955/mês)</li>
+<h4>4 Desenvolvedores</h4>
+<li>2 Dev. Front-End (R$ 2.868/mês - Hora Extra R$ 55,00)</li>
+<li>2 Dev. Back-End (R$ 2.955/mês - Hora Extra R$ 60,00)</li>
 
 
 <h3>Servidores</h3>
