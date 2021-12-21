@@ -27,6 +27,7 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 
 <h3>Etapa 4: Fase de desenvolvimento</h3>
 <li>Modelage de dados</li>
+<p> Duração fixa: os desenvolvedores responsáveis pela modelagem de dados trabalharão juntos na criação dos diagramas, assim, não influênciando no tempo de duração da atividade</p>
 <li>Design</li>
 
 > modulo 1
