@@ -3,14 +3,17 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 
 <h2> FASES DO PROJETO </h2>
 <h3>Etapa 1: Concepção</h3>
-<li>Conhecher e entender o problema: A empresa pretende busca diminuir o tempo de espera por ônibus</li>
-<li>Definição: Construção de um Aplicativo para acompanhar o trajeto dos onibus (mapear)</li>
-<li>Ideação (Brainstorming)</li>
+<li>Brainstorming</li>
+<li>Definição das ideias: Construção de um Aplicativo para acompanhar o trajeto dos onibus (mapear)</li>
+<li>Avaliação das ideias</li>
 <li>Prototipação</li>
+<li>Upar dados no GitHub</li>
 
 <h3>Etapa 2: Planejamento</h3>
 <li>Escopo do projeto</li>
 <p>Uma empresa de onibus pretende oferecer aos passageiros uma forma de facilitar na busca por ônibus. Para isso ela busca desenvolver um aplicativo que possa ser disponibilizado para os usuários do transporte público e assim acompanhar em tempo real o trajeto dos ônibus, além de informar as paradas e qual o ônibus mais próximo do local do usuário.</p>
+<li>Gerência de Risco</li>
+<li>Gerência de Custo</li>
 <li>Levantamento de requisistos</li>
 <li>Detalhamento dos requisitos</li>
 <li>Validação dos requisitos</li>
@@ -23,20 +26,38 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 <li>Avaliação</li>
 
 <h3>Etapa 4: Fase de desenvolvimento</h3>
-<li>Definir a metodologia usada (Scrum)</li>
 <li>Modelage de dados</li>
+<li>Design</li>
 
 > modulo 1
-- Tela login
-- Tela de cadastro de usuário
-- Tela de Cadastro de rotas
-- Criação do banco de dados
+- Tela Principal
+- Tela de Administrador
+- CRUD Admin
+- Tela de Rotas
+- CRUD de Rotas
 - Teste e implementação
 
 > modulo 2
-- 
+- Tela de Ônibus
+- CRUD de Ônibus
+- Tela de Acompanhamento de ônibus
+- CRUD de acompanhamento
+- Integrar API de geolocalização
+- Atualização do banco de dados
+- Teste e implementação
+
+> modulo 3
+- Tela de Usuário
+- CRUD Usuário
+- Tela de emissão de relatórios
+- Atualização do banco de dados
+- Teste e implementação
 
 <h3>Etapa 5: Documentação</h3>
+<li>Documentar etapa 1</li>
+<li>Documentar etapa 2</li>
+<li>Documentar etapa 3</li>
+<li>Documentar etapa 4</li>
 
 <h3>Etapa 6: Fase de manutenção</h3>
 
