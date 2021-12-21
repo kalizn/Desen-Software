@@ -87,4 +87,3 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 
 <h3>Servidores</h3>
 <li>Firebase - (1GB Free e U$ 0,108 cada GB extra) -> R$ 0,62</li>
-<li>Heroku - ($25 e acima por mês)</li>
