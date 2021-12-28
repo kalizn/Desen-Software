@@ -7,7 +7,6 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 <li>Definição das ideias: Construção de um Aplicativo para acompanhar o trajeto dos onibus (mapear)</li>
 <li>Avaliação das ideias</li>
 <li>Prototipação</li>
-<li>Upar dados no GitHub</li>
 
 <h3>Etapa 2: Planejamento</h3>
 <li>Escopo do projeto</li>
@@ -27,7 +26,6 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 
 <h3>Etapa 4: Fase de desenvolvimento</h3>
 <li>Modelage de dados</li>
-<p> Duração fixa: os desenvolvedores responsáveis pela modelagem de dados trabalharão juntos na criação dos diagramas, assim, não influênciando no tempo de duração da atividade</p>
 <li>Design</li>
 
 > modulo 1
