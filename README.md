@@ -75,9 +75,9 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 
 <h3>Pessoas</h3>
 <h4>1 Analista de Sistemas (R$ 5.313,00/mês - Hora Extra R$ 95,00)</h4>
-<h4>1 Designer (R$ 2.404,00/mês)</h4>
+<h4>1 Designer (R$ 2.404,00)</h4>
 <h4>2 Testers (R$ 1.646,00/mês - Hora Extra R$ 35,00)</h4>
-<h4>1 Auditor Interno (R$ 5.055,00/mês - Hora Extra R$ 95,00)</h4>
+<h4>1 Auditor Interno (R$ 3.400,00)</h4>
 
 <h4>4 Desenvolvedores</h4>
 <li>2 Dev. Front-End (R$ 2.868/mês - Hora Extra R$ 55,00)</li>
