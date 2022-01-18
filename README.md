@@ -58,8 +58,6 @@ Esboço para 2ª Avaliação da matéria Gerência de Projetos, do curso de TADS
 <li>Documentar etapa 3</li>
 <li>Documentar etapa 4</li>
 
-<h3>Etapa 6: Fase de manutenção</h3>
-
 <h2> RECURSOS DO PROJETO </h2>
 <h3>Tecnologias</h3>
 <h4># React Native</h4>
